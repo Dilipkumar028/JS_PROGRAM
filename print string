@@ -1,0 +1,14 @@
+var mya = "dilip";
+console.log(" the name is:" + mya);
+ var a=10;
+var b=20;
+c=a;
+a=b;
+b=c;
+console.log(+a);
+console.log(+b);
+var name="chandru";
+name.length;
+var n="balachandar"
+n.slice(1,5);
+n.toUpperCase();

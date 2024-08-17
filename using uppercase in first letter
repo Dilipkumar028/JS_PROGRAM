@@ -1,0 +1,5 @@
+var name="dilipkumar s"
+name.length;
+
+name.slice(0);
+name.toUpperCase();

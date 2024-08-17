@@ -1,0 +1,2 @@
+var name="chandrasekar"
+name.slice(0,6);

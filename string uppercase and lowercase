@@ -1,0 +1,3 @@
+var name="queen"
+name.toUpperCase();
+name=name.toLowerCase();
